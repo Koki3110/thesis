@@ -1,0 +1,115 @@
+# Created by Octave 5.2.0, Thu Mar 12 11:57:51 2020 GMT <unknown@DESKTOP-1OOM7AI>
+# name: q1
+# type: matrix
+# rows: 1
+# columns: 5
+ 7.4020744899585793 9.1153568684397861 10.258925492433626 11.076879072211646 56.967670418546319
+
+
+# name: q2
+# type: matrix
+# rows: 1
+# columns: 5
+ 6.096417298645731 9.3462894981371054 10.409946095464374 11.110794004486063 87.996621684248908
+
+
+# name: q3
+# type: matrix
+# rows: 1
+# columns: 5
+ 7.5978755223418863 9.0240268720083101 10.003801839472743 11.048017847690911 19.946550645260224
+
+
+# name: meanU
+# type: scalar
+13.817226467531793
+
+
+# name: stdU
+# type: scalar
+11.465957875876763
+
+
+# name: meanH
+# type: scalar
+16.831965317463432
+
+
+# name: stdH
+# type: scalar
+20.638964643886268
+
+
+# name: meanS
+# type: scalar
+10.796305991629698
+
+
+# name: stdS
+# type: scalar
+3.3486501078746582
+
+
+# name: SRa
+# type: scalar
+0
+
+
+# name: SRa1
+# type: scalar
+0
+
+
+# name: SRa2
+# type: scalar
+0
+
+
+# name: pval
+# type: scalar
+0.65050909472331209
+
+
+# name: pvalpost
+# type: matrix
+# rows: 2
+# columns: 3
+ 1 0.94946787663242693 0.44156459476627941
+ 1 1 0.40488485000549734
+
+
+# name: ypersigma
+# type: matrix
+# rows: 2
+# columns: 3
+ 0 -0.063375022229762587 0.76955384136140748
+ 0 0 0.83292886359117002
+
+
+# name: D
+# type: scalar
+10
+
+
+# name: fun
+# type: scalar
+30
+
+
+# name: N
+# type: scalar
+20
+
+
+# name: maxiter
+# type: scalar
+50
+
+
+# name: name
+# type: string
+# elements: 1
+# length: 3
+pso
+
+

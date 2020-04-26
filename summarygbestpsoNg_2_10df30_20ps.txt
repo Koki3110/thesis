@@ -1,0 +1,52 @@
+fun = 30
+D = 10
+No. of particles = 20
+FE_max = 1000
+No. of runs = 10
+GBestpsoN_2
+SUC = 0
+EVAL = ()
+FIT = 2.027987e+01(1.904448e+01)
+GBestpsoN_2 - Halton Sequence
+SUC = 0
+EVAL = ()
+FIT = 1.078298e+01(3.005168e+00)
+GBestpsoN_2 - Sobol Sequence
+SUC = 0
+EVAL = ()
+FIT = 1.507483e+01(1.640280e+01)
+GBestpsoN_2
+Avg. fitness = 2.027987e+01(1.904448e+01) SR = 0.000000e+00 Avg. FEs = 1.000000e+03(0.000000e+00)
+Avg. time = 1.883744e-01(3.094917e-03)
+GBestPSON_2 - Halton Sequence
+Avg. fitness = 1.078298e+01(3.005168e+00) SR = 0.000000e+00 Avg. FEs = 1.000000e+03(0.000000e+00)
+Avg. time = 1.990942e-01(4.355218e-03)
+GBestPSON_2 - Sobol Sequence
+Avg. fitness = 1.507483e+01(1.640280e+01) SR = 0.000000e+00 Avg. FEs = 1.000000e+03(0.000000e+00)
+Avg. time = 3.996357e-01(6.918644e-03)
+fun = 30
+D = 10
+No. of particles = 20
+FE_max = 1000
+No. of runs = 20
+GBestpsoN_2
+SUC = 0
+EVAL = ()
+FIT = 1.381723e+01(1.146596e+01)
+GBestpsoN_2 - Halton Sequence
+SUC = 0
+EVAL = ()
+FIT = 1.683197e+01(2.063896e+01)
+GBestpsoN_2 - Sobol Sequence
+SUC = 0
+EVAL = ()
+FIT = 1.079631e+01(3.348650e+00)
+GBestpsoN_2
+Avg. fitness = 1.381723e+01(1.146596e+01) SR = 0.000000e+00 Avg. FEs = 1.000000e+03(0.000000e+00)
+Avg. time = 1.897346e-01(1.422999e-02)
+GBestPSON_2 - Halton Sequence
+Avg. fitness = 1.683197e+01(2.063896e+01) SR = 0.000000e+00 Avg. FEs = 1.000000e+03(0.000000e+00)
+Avg. time = 2.000721e-01(1.090831e-02)
+GBestPSON_2 - Sobol Sequence
+Avg. fitness = 1.079631e+01(3.348650e+00) SR = 0.000000e+00 Avg. FEs = 1.000000e+03(0.000000e+00)
+Avg. time = 3.994279e-01(2.399742e-02)
